@@ -1,0 +1,61 @@
+Game ID,Year,Region,Round,Game Location,Better Seed,Team - Better Seed,Spread,Over/Under Total,Worse Seed,Team - Worse Seed,Better Seed - Score,Worse Seed - Score,Game Winner - Team,Game Winner - Seed,Better Seed vs. Spread,Better Seed vs. Spread (Points),O/U,O/U Margin,Margin of Victory,Total Points Scored,Better Seed Conference,Worse Seed - Conference,Better Seed Ken Pom,Worse Seed Ken Pom,Better Seed and Worse Ken Pom?,Ken Pom Ranking Margin,KP EM Diff,Better Seed KP Expected Margin,Worse Seed KP Expected Marg.,Better Seed Adj Off. Eff Rank,Worse Seed Adjusted Off Eff. Rank,Better Seed Adj. Def Eff. Rank,Worse Seed Adjusted Def. Rank,Futures Better to F4,Futures Worse to F4
+1,2018,East,1) Round of 64,Pittsburgh,1,Villanova,XXXXXXX,XXXXXXX,16,LIU Brok/Radford,,,,,,,,,,,XXXXX,XXXXX,2,170,No,168,31.43,31.41,-0.02,1,202,22,133,0.523809524,0.00069971
+2,2018,East,1) Round of 64,Pittsburgh,8,Virginia-tech,-2,141.5,9,Alabama,,,,,,,,,,,XXXXX,XXXXX,32,51,No,19,2.81,16.63,13.82,39,117,54,13,0.024390244,0.024390244
+3,2018,East,1) Round of 64,San Diego_,5,west Virginia,-10,146,12,murray-state,,,,,,,,,,,XXXXX,XXXXX,13,59,No,46,9.08,21.77,12.69,14,56,39,82,0.125,0.003322259
+4,2018,East,1) Round of 64,San Diego_,4,wichita State,-12,166.5,13,marshall,,,,,,,,,,,XXXXX,XXXXX,20,113,No,93,14.68,20.07,5.39,5,96,107,143,0.111111111,0.003322259
+5,2018,East,1) Round of 64,Dallas,6,Florida,XXXXXXX,XXXXXXX,11,UCLA/BON,,,,,,,,,,,XXXXX,XXXXX,23,49,No,26,4.33,18.71,14.38,37,23,25,110,0.0625,0.019715702
+6,2018,East,1) Round of 64,Dallas,3,Texas Tech,-11.5,138,14,stephen F. Austin,,,,,,,,,,,XXXXX,XXXXX,12,111,No,99,16.32,21.94,5.62,46,176,3,67,0.111111111,0.003322259
+7,2018,East,1) Round of 64,Detroit,7,arkansas,1,152,10,butler,,,,,,,,,,,XXXXX,XXXXX,37,25,Yes,-12,-2.23,15.63,17.86,19,32,103,48,0.024390244,0.024390244
+8,2018,East,1) Round of 64,Detroit,2,purdue,-20.5,145.5,15,cal-state-fullerton,,,,,,,,,,,XXXXX,XXXXX,5,153,No,148,25.34,26.66,1.32,2,177,29,134,0.285714286,0.010989011
+16,2018,West,1) Round of 64,Nashville,1,Xavier,XXXXXXX,XXXXXXX,16,NC Central/ Texas So,,,,,,,,,,,XXXXX,XXXXX,14,249,No,235,29.34,21.69,-7.65,7,173,59,315,0.2,0.00039992
+17,2018,West,1) Round of 64,Nashville,8,Missouri,0,148,9,Florida-state,,,,,,,,,,,XXXXX,XXXXX,38,35,Yes,-3,-0.35,15.47,15.82,53,30,47,76,0.047619048,0.024390244
+18,2018,West,1) Round of 64,Boise,5,Ohio-state,-8,147,12,South-dakota-state,,,,,,,,,,,XXXXX,XXXXX,15,77,No,62,10.63,21.11,10.48,27,41,16,148,0.076923077,0.00990099
+19,2018,West,1) Round of 64,Boise,4,Gonzaga,-12,136,13,north-carolina-greensboro,,,,,,,,,,,XXXXX,XXXXX,8,82,No,74,15.67,24.73,9.06,12,164,17,30,0.285714286,0.003322259
+20,2018,West,1) Round of 64,Wichita,6,houston,-4,142.5,11,san-diego-state,,,,,,,,,,,XXXXX,XXXXX,17,50,No,33,6.41,20.55,14.14,31,69,18,36,0.076923077,0.019607843
+21,2018,West,1) Round of 64,Wichita,3,Michigan,-12,135,14,montana,,,,,,,,,,,XXXXX,XXXXX,10,71,No,61,12.38,23.2,10.82,29,82,4,66,0.25,0.001996008
+22,2018,West,1) Round of 64,Charlotte,7,Texas A&M,-3.5,138,10,Providence,,,,,,,,,,,XXXXX,XXXXX,30,63,No,33,4.99,16.91,11.92,71,105,12,35,0.047619048,0.019607843
+23,2018,West,1) Round of 64,Charlotte,2,north-carolina,-19.5,161,15,lipscomb,,,,,,,,,,,XXXXX,XXXXX,7,1.65,Yes,-5.35,24.65,25.03,0.38,4,195,34,131,0.285714286,0.00049975
+31,2018,Midwest,1) Round of 64,Wichita,1,kansas,-15.5,146.5,16,pennsylvania,,,,,,,,,,,XXXXX,XXXXX,9,127,No,118,19.53,23.23,3.7,6,205,46,73,0.307692308,0.000999001
+32,2018,Midwest,1) Round of 64,wichita,8,seton hall,-2,157.5,9,north-carolina-state,,,,,,,,,,,XXXXX,XXXXX,26,41,No,15,2.2,17.33,15.13,26,24,58,100,0.032258065,0.016393443
+33,2018,Midwest,1) Round of 64,San Diego_,5,clemson,-5,133,12,new-mexico-state,,,,,,,,,,,XXXXX,XXXXX,19,55,No,36,6.71,20.27,13.56,48,116,8,14,0.047619048,0.012345679
+34,2018,Midwest,1) Round of 64,San Diego_,4,auburn,-11,148.5,13,Charleston,,,,,,,,,,,XXXXX,XXXXX,16,120,No,104,15.89,20.63,4.74,16,87,44,167,0.076923077,0.003322259
+35,2018,Midwest,1) Round of 64,detroit,6,texas-christian,XXXXXXX,XXXXXXX,11,ASU/SU,,,,,,,,,,,XXXXX,XXXXX,22,45,No,23,4.2,18.91,14.71,8,17,104,124,0.047619048,0.022246669
+36,2018,Midwest,1) Round of 64,detroit,3,michigan-state,-14,147.5,14,bucknell,,,,,,,,,,,XXXXX,XXXXX,6,100,No,94,19.53,26.34,6.81,9,99,9,112,0.333333333,0.003322259
+37,2018,Midwest,1) Round of 64,pittsburgh,7,rhode-island,-2,158,10,oklahoma,,,,,,,,,,,XXXXX,XXXXX,47,46,Yes,-1,-0.04,14.38,14.42,66,38,38,83,0.032258065,0.012345679
+38,2018,Midwest,1) Round of 64,pittsburgh,2,duke,-20.5,157,15,iona,,,,,,,,,,,XXXXX,XXXXX,3,134,No,131,26.25,29.13,2.88,3,80,7,212,0.4,0.00049975
+46,2018,South,1) Round of 64,Charlotte,1,Virginia,-23,121.5,16,maryland-baltimore-county,,,,,,,,,,,XXXXX,XXXXX,1,184,No,183,34.06,32.15,-1.91,21,170,1,178,0.476190476,0.00019996
+47,2018,South,1) Round of 64,Charlotte,8,Creighton,-2,144.5,9,Kansas-state,,,,,,,,,,,XXXXX,XXXXX,27,44,No,17,2.53,17.28,14.75,22,60,61,41,0.016393443,0.016393443
+48,2018,South,1) Round of 64,Boise,5,Kentucky,-6,143,12,Davidson,,,,,,,,,,,XXXXX,XXXXX,18,43,No,25,5.48,20.39,14.91,25,18,23,115,0.142857143,0.016393443
+49,2018,South,1) Round of 64,Boise,4,Arizona,-9,157.5,13,Buffalo,,,,,,,,,,,XXXXX,XXXXX,21,75,No,54,8.78,19.36,10.58,15,42,70,136,0.2,0.004975124
+50,2018,South,1) Round of 64,Dallas,6,Miami (FL),-2,134,11,loyola-il,,,,,,,,,,,XXXXX,XXXXX,36,42,No,6,0.62,15.71,15.09,52,68,45,24,0.032258065,0.016393443
+51,2018,South,1) Round of 64,Dallas,3,Tennessee,-13,132,14,wright-state,,,,,,,,,,,XXXXX,XXXXX,11,135,No,124,19.34,22.15,2.81,40,248,5,53,0.125,0.003984064
+52,2018,South,1) Round of 64,Nashville,7,Nevada,-1,143.5,10,texas,,,,,,,,,,,XXXXX,XXXXX,24,39,No,15,2.71,18.17,15.46,10,94,105,10,0.016393443,0.016393443
+53,2018,South,1) Round of 64,Nashville,2,Cincinnati,-14,129.5,15,Georgia-state,,,,,,,,,,,XXXXX,XXXXX,4,96,No,92,19.78,27,7.22,54,102,2,106,0.266666667,0.000999001
+9,2018,East,2) Second Round,Pittsburgh,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+10,2018,East,2) Second Round,San Diego_,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+11,2018,East,2) Second Round,Dallas,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+12,2018,East,2) Second Round,Detroit,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+13,2018,East,3) Sweet 16,Boston,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+14,2018,East,3) Sweet 16,Boston,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+15,2018,East,4) Elite 8,Boston,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+24,2018,West,2) Second Round,Nashville,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+25,2018,West,2) Second Round,Boise,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+26,2018,West,2) Second Round,Wichita,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+27,2018,West,2) Second Round,Charlotte,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+28,2018,West,3) Sweet 16,Los Angeles,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+29,2018,West,3) Sweet 16,Los Angeles,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+30,2018,West,4) Elite 8,Los Angeles,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+39,2018,Midwest,2) Second Round,Wichita,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+40,2018,Midwest,2) Second Round,San diego_,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+41,2018,Midwest,2) Second Round,Detroit,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+42,2018,Midwest,2) Second Round,pittsburgh,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+43,2018,Midwest,3) Sweet 16,Omaha,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+44,2018,Midwest,3) Sweet 16,Omaha,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+45,2018,Midwest,4) Elite 8,Omaha,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+54,2018,South,2) Second Round,Charlotte,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+55,2018,South,2) Second Round,Boise,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+56,2018,South,2) Second Round,Dallas,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+57,2018,South,2) Second Round,Nashville,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+58,2018,South,3) Sweet 16,Atlanta,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+59,2018,South,3) Sweet 16,Atlanta,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
+60,2018,South,4) Elite 8,Atlanta,,,,,,,,,,,,,,,,,XXXXX,XXXXX,,,No,0,0,,,,,,,,
