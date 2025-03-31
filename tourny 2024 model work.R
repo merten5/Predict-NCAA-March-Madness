@@ -18,12 +18,13 @@ library('caret')
 library('randomForest')
 
 
-games_2024 <- read.csv("2024 and before NCAA Tournament Games.csv",stringsAsFactors = FALSE, strip.white = TRUE)
+games_2024 <- read.csv("NCAA Tournament Games 2025 and before.csv",stringsAsFactors = FALSE, strip.white = TRUE)
 #for (i in 1:length(players_2024[[1]])) {
 new_df_names <- c(names(games_2024), "All.BPM", "WS.40", "PER", "Top.Off.Top.Def.BPM", "Top.Off.Xtreme.Def.BPM")
 games_all <- games_2024
 
-finalFourTeams <- c("conneticut 2023", "florida-atlantic 2023", "miami-fl 2023", "san-diego-state 2023", 
+finalFourTeams <- c("conneticut 2024", "alabama 2024", "north-carolina-state 2024", "purdue 2024", 
+                    "conneticut 2023", "florida-atlantic 2023", "miami-fl 2023", "san-diego-state 2023", 
                     "duke 2022", "kansas 2022", "villanova 2022", "north-carolina 2022", 
                     "ucla 2021", "houston 2021", "gonzaga 2021", "baylor 2021", 
                     "auburn 2019", "michigan-state 2019", "texas-tech 2019", "virginia 2019", 
